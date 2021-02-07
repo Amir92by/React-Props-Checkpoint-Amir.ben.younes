@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+ 
+} 
+
+body{
+  background-color: rgb(15, 56, 43);
+}
+
+.image{
+  border: 6px solid rgb(10, 10, 10)
+  
+ }
+ span{ color: goldenrod;}
+
+ .btn{margin: 20px;}
